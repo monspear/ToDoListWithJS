@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+}
+
+ul{
+    margin-left: 35%;
+    color: greenyellow;
+    font-size: 30px;
+    
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+.region-center{
+    color: white;
+}
+
+.region-center-adove{
+    color: chartreuse;
+    margin-top: 10%;
+    margin-left: 43%;
+}
+
+.region-top-bar{
+    color: yellow;
+    font-size: 36px;
+}
+
+#register-login{
+    margin-top: 8%;
+    margin-left: 40%;
+}
+#user-name{
+    margin-top: 8%;
+    margin-left: 40%;
+}
+#logout{
+    margin-left: 45%;
+}
+#todo-form{
+    margin-left: 40%;
+}
+
+#quote{
+    color: rgb(232, 238, 62);
+    font-size: 20px;
+    margin-bottom: 100px;
+    margin-left: 37%;
+}
