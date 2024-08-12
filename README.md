@@ -7,6 +7,7 @@
 javascript로 시계만들기 <br>
 localstorage로 유저이름을 기록하여 유저 환영하기<br>
 backgroundImage를 랜덤값을 통해 지정하여 F5을 누를 때 마다 새로운 이미지 뜨게 하기<br>
+local storage에 사용자 이름 저장하기<br>
 
 * vscode로 폴더를 연 뒤에 html파일 클릭 후 f5을 누를면 실행됩니다.<br>
 날씨와 위치를 찾지못하는 경우 api 키 값이 비어 있을 수 있습니다. (보안상의 문제로 비어 둔 것이니 너그럽게 양해 부탁드립니다.)<br>
